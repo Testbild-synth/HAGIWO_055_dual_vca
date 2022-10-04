@@ -14,7 +14,7 @@ As mentioned, the module has one circuit PCB and one panel PCB.
 You can order them on any common PCB manufacturing service, I used JLCPCB. For the circuit PCB, standard settings should be fine.
 For the panel, since it has copper exposed, make sure to choose a lead free surface finish (LeadFree HASL, ENIG) and/or spraypaint your panels so that you don't get lead on your hands.
 
-<img src="images/panel.JPG" width="15%" height="15%"> <img src="images/changethis.png" width="20%" height="20%"> <img src="images/vca_pcb2.JPG" width="20%" height="20%">
+<img src="images/panel.JPG" width="15%" height="15%"> <img src="images/changethis.png" width="18%" height="18%"> <img src="images/vca_pcb2.JPG" width="20%" height="20%">
 
 Assembly is fairly straight forward, just use the componentent values.
 The VCA is built for ~5V cv interval, if you with to use a bigger interval, try replacing the circled 10K resistors with different values.
